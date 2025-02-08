@@ -4,11 +4,13 @@ Split your RGBs signal from your retro console, ideal for connecting to both an 
 Input: 1x [SCART]
 Outputs: 1x [SCART] and 1x [4 BNC + 3.5mm Audio]
 
+![SCART Splitter](photos/DSC_2391.jpg)
+
 ## Files Included
 - **PCB Design Files** (DipTrace, Gerber)
 - **3D Print Files** (STEP, STL, 3MF for Bambu Studio)
 - **Bill of Materials** (XLSX)
-- **Wiring Diagram**
+- **Photos**
 
 ## Additional Parts Required
 - [12VDC Power Supply](https://amzn.to/4gwsgEL)
