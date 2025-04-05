@@ -3,11 +3,11 @@ HEADER;
 FILE_DESCRIPTION (( 'STEP AP214' ),
     '1' );
 FILE_NAME ('Shell_Top_rev3.STEP',
-    '2025-02-08T14:28:37',
+    '2025-02-08',
     ( '' ),
     ( '' ),
-    'SwSTEP 2.0',
-    'SolidWorks 2020',
+    '',
+    '',
     '' );
 FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
 ENDSEC;
